@@ -75,7 +75,7 @@ Feel free to check [issues page](https://github.com/Sree14hari/Currency-Converte
 
 ## 🧑‍💻 Author
 
-* **Sreehari S** – [GitHub](https://github.com/Sree14hari)
+* **Sreehari R** – [GitHub](https://github.com/Sree14hari)
 
 
-
+#DONT EXPECT ANY FUTURE UPDATE THIS APP WAS RANDOMLY MADE FOR HOBBY PURPOSE
