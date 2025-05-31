@@ -1,7 +1,3 @@
-Here’s a professional and informative `README.md` file suitable for the release version of the [Currency Converter](https://github.com/Sree14hari/Currency-Converter.git) project. This assumes it's a Flutter-based currency converter app:
-
----
-
 # 💱 Currency Converter
 
 A simple and intuitive Flutter application for converting currencies in real-time using live exchange rates. This app is designed for seamless conversion between multiple global currencies with a clean UI and smooth user experience.
@@ -13,20 +9,12 @@ A simple and intuitive Flutter application for converting currencies in real-tim
 
 ## 🚀 Features
 
-* 🌍 Real-time currency conversion
-* 💲 Support for multiple currencies
-* 🔄 Bi-directional conversion
 * 🎨 Clean and responsive UI
-* 🌐 Internet connectivity check
+* 🌐 OFFLINE
 * 🌙 Light & Dark mode support *(if implemented)*
 
 ---
 
-## 📱 Screenshots
-
-*(Include actual screenshots from the app to showcase the UI and features)*
-
----
 
 ## 🛠️ Tech Stack
 
@@ -56,15 +44,7 @@ flutter run
 
 ---
 
-## ⚙️ Configuration
 
-Make sure to add your API key in the appropriate file (e.g., `api_service.dart`):
-
-```dart
-const String apiKey = 'YOUR_API_KEY_HERE';
-```
-
----
 
 ## 📂 Project Structure
 
@@ -80,8 +60,8 @@ const String apiKey = 'YOUR_API_KEY_HERE';
 ## 📌 Roadmap
 
 * [x] Basic currency conversion
-* [ ] Add currency flags
-* [ ] Add offline support
+* [] Add currency flags
+* [x] Add offline support
 * [ ] Add historical rate charts
 
 ---
@@ -97,12 +77,5 @@ Feel free to check [issues page](https://github.com/Sree14hari/Currency-Converte
 
 * **Sreehari S** – [GitHub](https://github.com/Sree14hari)
 
----
 
-## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Let me know if you'd like the README tailored for a different audience (e.g., technical recruiters, app store listing) or to include CI/CD badges or publishing details.
